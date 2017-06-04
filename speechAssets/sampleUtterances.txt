@@ -1,0 +1,16 @@
+getPokemonByNumberIntent what pokemon is {dexNumber}
+getPokemonByNumberIntent what is {dexNumber}
+getPokemonByNumberIntent what is number {dexNumber}
+getPokemonByNumberIntent give me {dexNumber}
+getPokemonByNumberIntent give me number {dexNumber}
+getPokemonByNumberIntent give me pokemon {dexNumber}
+getPokemonByNumberIntent give me pokemon number {dexNumber}
+getPokemonByNumberIntent I want Pokemon number {dexNumber}
+getPokemonByNumberIntent I want number {dexNumber}
+getPokemonByNumberIntent I want Pokemon {dexNumber}
+getPokemonByNumberIntent {dexNumber}
+
+AMAZON.StopIntent stop 
+AMAZON.StopIntent off
+AMAZON.StopIntent shut up
+AMAZON.StopIntent quit
